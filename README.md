@@ -46,6 +46,6 @@ If you want to change the file path just add `-jf` to the command. Like so:
 - https://www.proxyscan.io/api/proxy?format=json ( HTTP, HTTPS, SOCKS4, SOCKS5 proxies )
 - https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list.txt ( HTTP, HTTPS, SOCKS4, SOCKS5 proxies )
 
-## Contribuitions
+## Contributions
 
 Please fell free to do so
