@@ -36,6 +36,7 @@ If you want to change the file path just add `-jf` to the command. Like so:
 - Add support for Proxychains4 / Proxychains
 - `txt` simple files
 - Add more services
+- More filters
 
 ## Where is getting the proxys from?
 
